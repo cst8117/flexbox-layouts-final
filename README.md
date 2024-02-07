@@ -1,2 +1,4 @@
-# flexbox-layouts
-This repository contains the starter files for the Flexbox Layouts project
+# Flexbox Layouts
+
+## Objective
+Use Flexbox to create different types of layouts.
